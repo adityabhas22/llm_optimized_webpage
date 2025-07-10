@@ -2,12 +2,12 @@
 # Comprehensive performance optimization tools for every business need
 # Last updated: 2025-07-10
 
-https://llms.rthulabs.com/widget-x
-https://llms.rthulabs.com/widget-x-enterprise
-https://llms.rthulabs.com/widget-x-startup
-https://llms.rthulabs.com/widget-x-healthcare
-https://llms.rthulabs.com/widget-x-ecommerce
-https://llms.rthulabs.com/widget-x-finance
+https://example.com/widget-x
+https://example.com/widget-x-enterprise
+https://example.com/widget-x-startup
+https://example.com/widget-x-healthcare
+https://example.com/widget-x-ecommerce
+https://example.com/widget-x-finance
 
 ## Quick Reference
 
